@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente trabajo en refactorización de software legado <br>👨🏻‍💻 Tengo interés en el desarrollo web (frontend, backend, SOA, Rest)<br>☕ Alto conocimiento en Java (POO)<br>🌱 Actualmente soy maestrando en Cenidet<br>💬 Si tienes alguna pregunta o buscas colaborar, puedes escribirme un correo a:<br>      eaeliasalejandro@hotmail.com<br>⚡ "No es ron ni tequila, es mi código que no compila"
+🔭 Actualmente trabajo en refactorización de software legado <br>👨🏻‍💻 Tengo interés en el desarrollo web (frontend, backend, SOA, Rest)<br>☕ Alto conocimiento en Java (POO)<br>🌱 Actualmente soy doctorante en CENIDET<br>💬 Si tienes alguna pregunta o buscas colaborar, puedes escribirme un correo a:<br>      eaeliasalejandro@hotmail.com<br>⚡ "No es ron ni tequila, es mi código que no compila"
 
 
 ## 🌐 Socials:
